@@ -1,2 +1,2 @@
-# nanda-dita
-weeding invitational
+# nanda-dita.github.io
+
